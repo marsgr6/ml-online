@@ -1,21 +1,5 @@
 # ML-online: Técnicas avanzadas de Machine Learning
 
-
-**Descripción del curso:**
-
-Este curso avanzado proporciona una exploración exhaustiva de técnicas de aprendizaje automático avanzadas, centrándose en ensembles, redes neuronales artificiales y técnicas de aprendizaje profundo como LSTM, CNN, GAN y transformers. Los estudiantes aprenderán a diseñar, entrenar y aplicar modelos de aprendizaje automático avanzados para una variedad de aplicaciones del mundo real.
-
-### Docente
-
-[Mario González](http://investigacion.udla.edu.ec/udla_teams/mario-gonzalez/)
-
-- [Perfil Google scholar](https://scholar.google.co.uk/citations?user=cmuZCwsAAAAJ&hl=en)
-
-### Contenido
-
-# ML-online: Técnicas avanzadas de Machine Learning
-
-
 **Descripción del curso:**
 
 Este curso avanzado proporciona una exploración exhaustiva de técnicas de aprendizaje automático avanzadas, centrándose en ensembles, redes neuronales artificiales y técnicas de aprendizaje profundo como LSTM, CNN, GAN y transformers. Los estudiantes aprenderán a diseñar, entrenar y aplicar modelos de aprendizaje automático avanzados para una variedad de aplicaciones del mundo real.
