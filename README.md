@@ -28,7 +28,7 @@ Este curso avanzado proporciona una exploración exhaustiva de técnicas de apre
 
 ### Contenido
 
-| Semana | Notebook             | Temas| 
+| Semana | Notebook                          | Temas| 
 | :---:  | :---------------------------------------------   | :---------------------------------------------   |
 | 1      | [Modelos ensemble](https://nbviewer.org/github/marsgr6/ml-online/blob/main/ensemble_models.ipynb) | Random Forest, Gradient Boost Machines, Optimización de hiper-parámetros, evaluación de modelos de ML. |
 | 2      | [Redes neuronales](https://nbviewer.org/github/marsgr6/ml-online/blob/main/ann_dnn.ipynb) | Redes neuronales artificiales, redes feedforward, retro propagación, deep neural networks. Aplicación a clasificación y regresión. | 
